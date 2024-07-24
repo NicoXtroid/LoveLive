@@ -1,0 +1,23 @@
+D:\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+D:\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe
+D:\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.pdb
+D:\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.xml
+D:\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.vbprojResolveAssemblyReference.cache
+D:\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Form1.resources
+D:\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Resources.resources
+D:\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.vbproj.GenerateResource.Cache
+D:\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+D:\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+D:\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb
+J:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+J:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+J:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+J:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb

@@ -1,0 +1,96 @@
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.pdb
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.xml
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Interop.WMPLib.dll
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\AxInterop.WMPLib.dll
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbprojResolveAssemblyReference.cache
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Interop.WMPLib.dll
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\AxInterop.WMPLib.dll
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.ResolveComReference.cache
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmWaifu.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Resources.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.GenerateResource.Cache
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmListado.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Interop.WMPLib.dll
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\AxInterop.WMPLib.dll
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.ResolveComReference.cache
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbprojResolveAssemblyReference.cache
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmListado.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmWaifu.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Resources.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.GenerateResource.Cache
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Database\Waifus.accdb
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.pdb
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.xml
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Interop.WMPLib.dll
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\AxInterop.WMPLib.dll
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmEquipo.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmPrincipal.resources
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Interop.WMPLib.dll
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\AxInterop.WMPLib.dll
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.ResolveComReference.cache
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Database\Waifus.accdb
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.pdb
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.xml
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Interop.WMPLib.dll
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\AxInterop.WMPLib.dll
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbprojResolveAssemblyReference.cache
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmEquipo.resources
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmListado.resources
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.FrmListar.resources
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmPrincipal.resources
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmWaifu.resources
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Resources.resources
+G:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.GenerateResource.Cache
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\bin\Debug\Database\Waifus.accdb
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmEquipo.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.FrmListar.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmPrincipal.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Listado Jugadores.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Login.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Nuevo Jugador.resources
+F:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.CoreCompileInputs.cache
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmLogin.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmNuevo_Jugador.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Listado_Jugadores.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.FrmListar.resources
+I:\USM\2017\2\Taller de D. Software\NET\Proyecto\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.FrmMazo.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\bin\Debug\Database\Waifus.accdb
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe.config
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.exe
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.pdb
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\bin\Debug\Love Live SIP.xml
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\bin\Debug\Interop.WMPLib.dll
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbprojResolveAssemblyReference.cache
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Interop.WMPLib.dll
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.ResolveComReference.cache
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmEquipo.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.FrmListar.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmLogin.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.FrmMazo.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmNuevo_Jugador.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmPrincipal.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.frmWaifu.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Listado_Jugadores.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.Resources.resources
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.GenerateResource.Cache
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love_Live_SIP.vbproj.CoreCompileInputs.cache
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.exe
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.xml
+C:\Users\NICOL\Desktop\Love Live SIP\Love Live SIP\obj\Debug\Love Live SIP.pdb

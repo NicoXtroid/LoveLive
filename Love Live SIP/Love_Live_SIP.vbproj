@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{357A18B4-75C0-4DF6-829B-4520A0F88876}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Love_Live_SIP.My.MyApplication</StartupObject>
+    <RootNamespace>Love_Live_SIP</RootNamespace>
+    <AssemblyName>Love Live SIP</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Love Live SIP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Love Live SIP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BsnNegocio.vb" />
+    <Compile Include="Carta jugador.vb" />
+    <Compile Include="Carta.vb" />
+    <Compile Include="Conexion.vb" />
+    <Compile Include="DaoDatos.vb" />
+    <Compile Include="frmEquipo.Designer.vb">
+      <DependentUpon>frmEquipo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquipo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListar.Designer.vb">
+      <DependentUpon>FrmListar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMazo.Designer.vb">
+      <DependentUpon>FrmMazo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMazo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNuevo Jugador.Designer.vb">
+      <DependentUpon>frmNuevo Jugador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNuevo Jugador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWaifu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWaifu.Designer.vb">
+      <DependentUpon>frmWaifu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Habilidad.vb" />
+    <Compile Include="Idol.vb" />
+    <Compile Include="Jugador.vb" />
+    <Compile Include="Listado Jugadores.Designer.vb">
+      <DependentUpon>Listado Jugadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listado Jugadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mazo.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Stats.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmEquipo.resx">
+      <DependentUpon>frmEquipo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListar.resx">
+      <DependentUpon>FrmListar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMazo.resx">
+      <DependentUpon>FrmMazo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNuevo Jugador.resx">
+      <DependentUpon>frmNuevo Jugador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWaifu.resx">
+      <DependentUpon>frmWaifu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado Jugadores.resx">
+      <DependentUpon>Listado Jugadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database\Waifus.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Image\wall\Uranohoshi_Girls_High_School_1.png" />
+    <None Include="Image\wall\Rooftop_3.png" />
+    <None Include="Image\Icon\Cancel.png" />
+    <None Include="Image\Icon\Disband.png" />
+    <None Include="Image\Icon\Exit.png" />
+    <None Include="Image\Icon\OK.png" />
+    <None Include="Image\Icon\AddtoTeam.png" />
+    <None Include="Image\Icon\Details.png" />
+    <None Include="Image\Icon\Back2.png" />
+    <None Include="Image\wall\Rooftop_1.png" />
+    <None Include="Image\wall\Otonokizaka_high_school_11.png" />
+    <None Include="Image\Icon\Back.png" />
+    <None Include="Image\Icon\NoWaifu.png" />
+    <None Include="Image\wall\Otonokizaka_High_School_3.jpg" />
+    <None Include="Image\wall\Otonokizaka_high_school_7.png" />
+    <None Include="Image\Icon\9.png" />
+    <None Include="Image\Icon\8.png" />
+    <None Include="Image\Icon\7.png" />
+    <None Include="Image\Icon\6.png" />
+    <None Include="Image\Icon\5.png" />
+    <None Include="Image\Icon\4.png" />
+    <None Include="Image\Icon\3.png" />
+    <None Include="Image\Icon\2.png" />
+    <None Include="Image\Icon\1.png" />
+    <None Include="Image\Icon\Other.png" />
+    <None Include="Image\Icon\Team.png" />
+    <None Include="Image\Icon\Members.png" />
+    <None Include="Image\wall\logo_shadow.png" />
+    <None Include="Image\wall\Uranohoshi_Girls_High_School_3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
